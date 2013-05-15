@@ -6,7 +6,7 @@
         "ordinal",
         "suffix"
     ],
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": {
         "name": "Stephen Kraushaar",
         "url": "https://github.com/FesterCluck/jquery.ordinalinator/AUTHORS.txt"
