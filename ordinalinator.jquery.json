@@ -1,0 +1,34 @@
+{
+    "name": "ordinalinator",
+    "title": "ordinalinator",
+    "description": "jQuery plugin to add ordinal suffixes to class .ordinal in an element",
+    "keywords": [
+        "ordinal",
+        "suffix"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Stephen Kraushaar",
+        "url": "https://github.com/FesterCluck/jquery.ordinalinator/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Stephen Kraushaar",
+            "email": "skraushaar@gmail.com",
+            "url": "http://nova-initia.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+        }
+    ],
+    "bugs": "https://github.com/FesterCluck/jquery.ordinalinator/issues",
+    "homepage": "https://github.com/FesterCluck/jquery.ordinalinator/",
+    "docs": "https://github.com/FesterCluck/jquery.ordinalinator/",
+    "download": "https://github.com/FesterCluck/jquery.ordinalinator/",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
